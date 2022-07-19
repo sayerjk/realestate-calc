@@ -9,4 +9,4 @@ Meant to compare median single-family home prices between cities, zip codes, nei
 - Automated updating (current data available from Zillow, updated monthly)  
 - Incorporate zip codes and/or neighborhoods  
 
-![](https://imageio.forbes.com/specials-images/imageserve/5f0c98c0147a4f0006753d4b/Houses-of-different-size-with-different-value-on-stacks-of-coins-/960x0.jpg?format=jpg&width=960)
+![](https://user-images.githubusercontent.com/97368871/179814594-4339dcf0-7720-48db-8088-6e35d85c7d5d.png)
