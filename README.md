@@ -6,7 +6,7 @@ Additionally, I would like to add in more features like exact percent change, th
 
 Would like data going back further in time, with the at least the same frequency of monthly reporting.  
 
-The full dataset is about 130MB. This is a 2.3MB compressed version consisting of the top 1000 cities by `SizeRank` 
+The full dataset is about 130MB. This is a 2.3MB compressed version consisting of the top 1000 cities by `SizeRank`. Please clone and experiment with any cities in that range! 
 
 
 ![](https://user-images.githubusercontent.com/97368871/179814594-4339dcf0-7720-48db-8088-6e35d85c7d5d.png)
